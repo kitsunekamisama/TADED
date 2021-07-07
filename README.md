@@ -1,4 +1,4 @@
-# Estrtura do Tipo Carro
+# Estrutura do Tipo Carro
 #### Apresentação:
 Nesse projeto tive como objetivo simular o comportamento de um sistema básico 
 de cadastro, inserção, consulta e remoção, para tal
